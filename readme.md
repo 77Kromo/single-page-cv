@@ -1,9 +1,5 @@
 # **Roadmap.sh-Projects**
 
-
-## **Demo**
-[Single-Page CV]() 
-
 ## *Features*
 
 - Links to external websites (e.g. GitHub)
