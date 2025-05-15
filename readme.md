@@ -2,7 +2,7 @@
 
 
 ## **Frontend**
-1. [Single-Page CV](https://roadmap.sh/projects/single-page-cv) ![alt text](Single-Page-CV.png)
+1. [Single-Page CV](https://roadmap.sh/projects/single-page-cv) 
 
 ## *Features*
 
